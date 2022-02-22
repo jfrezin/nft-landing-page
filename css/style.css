@@ -11,7 +11,7 @@
   --bg-color: #00163f;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #a0dda2;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -146,6 +146,7 @@ section {
   margin: 2rem 0;
   font-size: 3.5rem;
   text-align: center;
+  color: #eaaacc; 
 }
 
 .countdown p {
